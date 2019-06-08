@@ -1,0 +1,7 @@
+# Similarity Analysis of Neighbourhoods in Different Cities
+### Background
+  A major part of the Indian population has to move to a different city to pursue a career. Most people who need to settle outside their own cities and towns are college freshers with little to no experience of living in an unfamiliar environment. Leaving behind one’s hometown to settle in a different city is a daunting task to most people and finding a similar neighbourhood to settle in, which provides the basic facilities that their hometown had just makes things easier.
+### Problem
+  The aim of this workflow is to find areas that are similar in terms of facilities and venues but are not in the same city. Two areas will be deemed similar if the areas have similar categories of venues within a similar distance. Locations with such similarity will be grouped into the same cluster. The primary goal after forming such clusters is to visualize them as same distinctly coloured points with the colour representing the cluster they belong to. 
+### Interest
+  The people who will be benefited are those trying to move to a new city but would like the comforts of their old neighbourhood to make adjusting to a new city easier. Knowing which locations are similar in terms of venues will also be helpful for those trying to expand their business into newer zones as they can use data from where their business made more profits to decide where to expand to.
